@@ -1,0 +1,451 @@
+id,title,body,department,sentiment
+96,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi..,Housekeeping,neg
+37,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche..,Housekeeping,pos
+334,Ristorante pulito e accoglient,Ristorante pulito e accogliente davvero.,F&B,pos
+258,Errore nella prenotazione.,Errore nella prenotazione decisamente.,Reception,neg
+253,Personale scortese e poco disp,Personale scortese e poco disponibile davvero.,Reception,neg
+129,Cattivo odore in stanza.,Cattivo odore in stanza assolutamente.,Housekeeping,neg
+25,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente assolutamente.,Housekeeping,pos
+279,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception decisamente.,Reception,neg
+93,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi..,Housekeeping,neg
+257,Errore nella prenotazione.,Errore nella prenotazione davvero.,Reception,neg
+46,Servizio pulizie eccellente.,Servizio pulizie eccellente!.,Housekeeping,pos
+41,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche davvero.,Housekeeping,pos
+301,Colazione abbondante e buoniss,Colazione abbondante e buonissima!.,F&B,pos
+75,Camera luminosa,"Camera luminosa, fresca e confortevole!.",Housekeeping,pos
+335,Ristorante pulito e accoglient,Ristorante pulito e accogliente..,F&B,pos
+135,Cattivo odore in stanza.,Cattivo odore in stanza assolutamente.,Housekeeping,neg
+141,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque molto.,Housekeeping,neg
+130,Cattivo odore in stanza.,Cattivo odore in stanza assolutamente.,Housekeeping,neg
+427,Esperienza culinaria deludente,Esperienza culinaria deludente davvero.,F&B,neg
+291,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione..,Reception,neg
+78,Camera sporca e maleodorante.,Camera sporca e maleodorante molto.,Housekeeping,neg
+445,Personale distratto al ristora,Personale distratto al ristorante!.,F&B,neg
+385,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità davvero.,F&B,neg
+50,Servizio pulizie eccellente.,Servizio pulizie eccellente davvero.,Housekeeping,pos
+418,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato!.,F&B,neg
+271,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception!.,Reception,neg
+242,Personale scortese e poco disp,Personale scortese e poco disponibile..,Reception,neg
+111,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso molto.,Housekeeping,neg
+118,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso..,Housekeeping,neg
+315,Colazione abbondante e buoniss,Colazione abbondante e buonissima..,F&B,pos
+286,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione molto.,Reception,neg
+176,Check-in veloce e professional,Check-in veloce e professionale davvero.,Reception,pos
+369,Piatti curati e personale gent,Piatti curati e personale gentile decisamente.,F&B,pos
+438,Personale distratto al ristora,Personale distratto al ristorante davvero.,F&B,neg
+434,Esperienza culinaria deludente,Esperienza culinaria deludente decisamente.,F&B,neg
+319,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido molto.,F&B,pos
+29,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente decisamente.,Housekeeping,pos
+390,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità molto.,F&B,neg
+31,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche molto.,Housekeeping,pos
+94,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi assolutamente.,Housekeeping,neg
+364,Piatti curati e personale gent,Piatti curati e personale gentile assolutamente.,F&B,pos
+162,Personale gentile e accoglient,Personale gentile e accogliente!.,Reception,pos
+27,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente decisamente.,Housekeeping,pos
+265,Errore nella prenotazione.,Errore nella prenotazione assolutamente.,Reception,neg
+106,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso davvero.,Housekeeping,neg
+331,Ristorante pulito e accoglient,Ristorante pulito e accogliente molto.,F&B,pos
+34,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche assolutamente.,Housekeeping,pos
+317,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido!.,F&B,pos
+324,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido davvero.,F&B,pos
+313,Colazione abbondante e buoniss,Colazione abbondante e buonissima molto.,F&B,pos
+191,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente assolutamente.,Reception,pos
+109,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso!.,Housekeeping,neg
+149,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque molto.,Housekeeping,neg
+188,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente davvero.,Reception,pos
+240,Attesa lunga al check-in.,Attesa lunga al check-in assolutamente.,Reception,neg
+359,Esperienza gastronomica eccell,Esperienza gastronomica eccellente molto.,F&B,pos
+391,Cibo freddo e servizio lento.,Cibo freddo e servizio lento assolutamente.,F&B,neg
+429,Esperienza culinaria deludente,Esperienza culinaria deludente..,F&B,neg
+295,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione..,Reception,neg
+249,Personale scortese e poco disp,Personale scortese e poco disponibile!.,Reception,neg
+322,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido davvero.,F&B,pos
+419,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato..,F&B,neg
+68,Camera luminosa,"Camera luminosa, fresca e confortevole!.",Housekeeping,pos
+4,Camera pulita e profumata.,Camera pulita e profumata decisamente.,Housekeeping,pos
+300,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione..,Reception,neg
+124,Cattivo odore in stanza.,Cattivo odore in stanza..,Housekeeping,neg
+206,Ottimo servizio alla reception,Ottimo servizio alla reception decisamente.,Reception,pos
+352,Esperienza gastronomica eccell,Esperienza gastronomica eccellente!.,F&B,pos
+325,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido molto.,F&B,pos
+237,Attesa lunga al check-in.,Attesa lunga al check-in!.,Reception,neg
+12,Camera pulita e profumata.,Camera pulita e profumata decisamente.,Housekeeping,pos
+248,Personale scortese e poco disp,Personale scortese e poco disponibile decisamente.,Reception,neg
+132,Cattivo odore in stanza.,Cattivo odore in stanza decisamente.,Housekeeping,neg
+79,Camera sporca e maleodorante.,Camera sporca e maleodorante decisamente.,Housekeeping,neg
+97,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi..,Housekeeping,neg
+235,Attesa lunga al check-in.,Attesa lunga al check-in..,Reception,neg
+256,Errore nella prenotazione.,Errore nella prenotazione..,Reception,neg
+201,Ottimo servizio alla reception,Ottimo servizio alla reception!.,Reception,pos
+404,Cibo freddo e servizio lento.,Cibo freddo e servizio lento davvero.,F&B,neg
+167,Check-in veloce e professional,Check-in veloce e professionale davvero.,Reception,pos
+349,Esperienza gastronomica eccell,Esperienza gastronomica eccellente..,F&B,pos
+290,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione..,Reception,neg
+247,Personale scortese e poco disp,Personale scortese e poco disponibile decisamente.,Reception,neg
+59,Servizio pulizie eccellente.,Servizio pulizie eccellente!.,Housekeeping,pos
+392,Cibo freddo e servizio lento.,Cibo freddo e servizio lento assolutamente.,F&B,neg
+450,Personale distratto al ristora,Personale distratto al ristorante..,F&B,neg
+203,Ottimo servizio alla reception,Ottimo servizio alla reception assolutamente.,Reception,pos
+194,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente davvero.,Reception,pos
+270,Errore nella prenotazione.,Errore nella prenotazione..,Reception,neg
+54,Servizio pulizie eccellente.,Servizio pulizie eccellente decisamente.,Housekeeping,pos
+416,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato davvero.,F&B,neg
+302,Colazione abbondante e buoniss,Colazione abbondante e buonissima molto.,F&B,pos
+83,Camera sporca e maleodorante.,Camera sporca e maleodorante davvero.,Housekeeping,neg
+387,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità davvero.,F&B,neg
+9,Camera pulita e profumata.,Camera pulita e profumata decisamente.,Housekeeping,pos
+365,Piatti curati e personale gent,Piatti curati e personale gentile!.,F&B,pos
+226,Attesa lunga al check-in.,Attesa lunga al check-in davvero.,Reception,neg
+164,Personale gentile e accoglient,Personale gentile e accogliente assolutamente.,Reception,pos
+268,Errore nella prenotazione.,Errore nella prenotazione molto.,Reception,neg
+45,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche!.,Housekeeping,pos
+144,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque!.,Housekeeping,neg
+215,Esperienza piacevole al check-,Esperienza piacevole al check-out..,Reception,pos
+73,Camera luminosa,"Camera luminosa, fresca e confortevole!.",Housekeeping,pos
+294,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione molto.,Reception,neg
+222,Esperienza piacevole al check-,Esperienza piacevole al check-out decisamente.,Reception,pos
+421,Esperienza culinaria deludente,Esperienza culinaria deludente!.,F&B,neg
+330,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido decisamente.,F&B,pos
+88,Camera sporca e maleodorante.,Camera sporca e maleodorante decisamente.,Housekeeping,neg
+389,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità!.,F&B,neg
+269,Errore nella prenotazione.,Errore nella prenotazione molto.,Reception,neg
+151,Personale gentile e accoglient,Personale gentile e accogliente!.,Reception,pos
+233,Attesa lunga al check-in.,Attesa lunga al check-in molto.,Reception,neg
+32,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche..,Housekeeping,pos
+81,Camera sporca e maleodorante.,Camera sporca e maleodorante..,Housekeeping,neg
+396,Cibo freddo e servizio lento.,Cibo freddo e servizio lento..,F&B,neg
+89,Camera sporca e maleodorante.,Camera sporca e maleodorante decisamente.,Housekeeping,neg
+439,Personale distratto al ristora,Personale distratto al ristorante!.,F&B,neg
+10,Camera pulita e profumata.,Camera pulita e profumata!.,Housekeeping,pos
+272,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception!.,Reception,neg
+366,Piatti curati e personale gent,Piatti curati e personale gentile assolutamente.,F&B,pos
+199,Ottimo servizio alla reception,Ottimo servizio alla reception davvero.,Reception,pos
+51,Servizio pulizie eccellente.,Servizio pulizie eccellente assolutamente.,Housekeeping,pos
+49,Servizio pulizie eccellente.,Servizio pulizie eccellente davvero.,Housekeeping,pos
+332,Ristorante pulito e accoglient,Ristorante pulito e accogliente..,F&B,pos
+274,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception molto.,Reception,neg
+251,Personale scortese e poco disp,Personale scortese e poco disponibile!.,Reception,neg
+245,Personale scortese e poco disp,Personale scortese e poco disponibile!.,Reception,neg
+423,Esperienza culinaria deludente,Esperienza culinaria deludente decisamente.,F&B,neg
+175,Check-in veloce e professional,Check-in veloce e professionale decisamente.,Reception,pos
+28,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente decisamente.,Housekeeping,pos
+413,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato!.,F&B,neg
+42,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche..,Housekeeping,pos
+153,Personale gentile e accoglient,Personale gentile e accogliente molto.,Reception,pos
+185,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente assolutamente.,Reception,pos
+95,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi decisamente.,Housekeeping,neg
+327,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido decisamente.,F&B,pos
+425,Esperienza culinaria deludente,Esperienza culinaria deludente..,F&B,neg
+447,Personale distratto al ristora,Personale distratto al ristorante..,F&B,neg
+30,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente assolutamente.,Housekeeping,pos
+412,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato assolutamente.,F&B,neg
+246,Personale scortese e poco disp,Personale scortese e poco disponibile!.,Reception,neg
+250,Personale scortese e poco disp,Personale scortese e poco disponibile..,Reception,neg
+232,Attesa lunga al check-in.,Attesa lunga al check-in assolutamente.,Reception,neg
+220,Esperienza piacevole al check-,Esperienza piacevole al check-out..,Reception,pos
+52,Servizio pulizie eccellente.,Servizio pulizie eccellente davvero.,Housekeeping,pos
+336,Ristorante pulito e accoglient,Ristorante pulito e accogliente!.,F&B,pos
+202,Ottimo servizio alla reception,Ottimo servizio alla reception..,Reception,pos
+11,Camera pulita e profumata.,Camera pulita e profumata decisamente.,Housekeeping,pos
+18,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente!.,Housekeeping,pos
+443,Personale distratto al ristora,Personale distratto al ristorante davvero.,F&B,neg
+323,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido molto.,F&B,pos
+14,Camera pulita e profumata.,Camera pulita e profumata!.,Housekeeping,pos
+225,Esperienza piacevole al check-,Esperienza piacevole al check-out decisamente.,Reception,pos
+444,Personale distratto al ristora,Personale distratto al ristorante!.,F&B,neg
+312,Colazione abbondante e buoniss,Colazione abbondante e buonissima molto.,F&B,pos
+346,Esperienza gastronomica eccell,Esperienza gastronomica eccellente molto.,F&B,pos
+65,Camera luminosa,"Camera luminosa, fresca e confortevole assolutamente.",Housekeeping,pos
+204,Ottimo servizio alla reception,Ottimo servizio alla reception!.,Reception,pos
+72,Camera luminosa,"Camera luminosa, fresca e confortevole davvero.",Housekeeping,pos
+166,Check-in veloce e professional,Check-in veloce e professionale decisamente.,Reception,pos
+436,Personale distratto al ristora,Personale distratto al ristorante assolutamente.,F&B,neg
+173,Check-in veloce e professional,Check-in veloce e professionale!.,Reception,pos
+386,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità molto.,F&B,neg
+230,Attesa lunga al check-in.,Attesa lunga al check-in davvero.,Reception,neg
+411,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato decisamente.,F&B,neg
+402,Cibo freddo e servizio lento.,Cibo freddo e servizio lento..,F&B,neg
+67,Camera luminosa,"Camera luminosa, fresca e confortevole decisamente.",Housekeeping,pos
+321,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido molto.,F&B,pos
+47,Servizio pulizie eccellente.,Servizio pulizie eccellente molto.,Housekeeping,pos
+119,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso decisamente.,Housekeeping,neg
+35,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche davvero.,Housekeeping,pos
+361,Piatti curati e personale gent,Piatti curati e personale gentile assolutamente.,F&B,pos
+310,Colazione abbondante e buoniss,Colazione abbondante e buonissima..,F&B,pos
+430,Esperienza culinaria deludente,Esperienza culinaria deludente decisamente.,F&B,neg
+376,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità decisamente.,F&B,neg
+339,Ristorante pulito e accoglient,Ristorante pulito e accogliente assolutamente.,F&B,pos
+145,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque..,Housekeeping,neg
+375,Piatti curati e personale gent,Piatti curati e personale gentile..,F&B,pos
+403,Cibo freddo e servizio lento.,Cibo freddo e servizio lento davvero.,F&B,neg
+7,Camera pulita e profumata.,Camera pulita e profumata..,Housekeeping,pos
+398,Cibo freddo e servizio lento.,Cibo freddo e servizio lento davvero.,F&B,neg
+160,Personale gentile e accoglient,Personale gentile e accogliente decisamente.,Reception,pos
+33,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche molto.,Housekeeping,pos
+372,Piatti curati e personale gent,Piatti curati e personale gentile assolutamente.,F&B,pos
+43,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche..,Housekeeping,pos
+186,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente..,Reception,pos
+104,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi..,Housekeeping,neg
+174,Check-in veloce e professional,Check-in veloce e professionale decisamente.,Reception,pos
+435,Esperienza culinaria deludente,Esperienza culinaria deludente davvero.,F&B,neg
+303,Colazione abbondante e buoniss,Colazione abbondante e buonissima assolutamente.,F&B,pos
+282,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception decisamente.,Reception,neg
+8,Camera pulita e profumata.,Camera pulita e profumata..,Housekeeping,pos
+255,Personale scortese e poco disp,Personale scortese e poco disponibile assolutamente.,Reception,neg
+112,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso davvero.,Housekeeping,neg
+304,Colazione abbondante e buoniss,Colazione abbondante e buonissima!.,F&B,pos
+217,Esperienza piacevole al check-,Esperienza piacevole al check-out assolutamente.,Reception,pos
+252,Personale scortese e poco disp,Personale scortese e poco disponibile!.,Reception,neg
+57,Servizio pulizie eccellente.,Servizio pulizie eccellente!.,Housekeeping,pos
+383,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità decisamente.,F&B,neg
+140,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque assolutamente.,Housekeeping,neg
+189,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente..,Reception,pos
+192,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente!.,Reception,pos
+138,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque..,Housekeeping,neg
+263,Errore nella prenotazione.,Errore nella prenotazione decisamente.,Reception,neg
+277,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception molto.,Reception,neg
+193,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente assolutamente.,Reception,pos
+440,Personale distratto al ristora,Personale distratto al ristorante!.,F&B,neg
+371,Piatti curati e personale gent,Piatti curati e personale gentile assolutamente.,F&B,pos
+2,Camera pulita e profumata.,Camera pulita e profumata!.,Housekeeping,pos
+123,Cattivo odore in stanza.,Cattivo odore in stanza molto.,Housekeeping,neg
+351,Esperienza gastronomica eccell,Esperienza gastronomica eccellente assolutamente.,F&B,pos
+148,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque decisamente.,Housekeeping,neg
+394,Cibo freddo e servizio lento.,Cibo freddo e servizio lento!.,F&B,neg
+6,Camera pulita e profumata.,Camera pulita e profumata..,Housekeeping,pos
+179,Check-in veloce e professional,Check-in veloce e professionale assolutamente.,Reception,pos
+150,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque assolutamente.,Housekeeping,neg
+353,Esperienza gastronomica eccell,Esperienza gastronomica eccellente..,F&B,pos
+285,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception!.,Reception,neg
+314,Colazione abbondante e buoniss,Colazione abbondante e buonissima molto.,F&B,pos
+214,Esperienza piacevole al check-,Esperienza piacevole al check-out assolutamente.,Reception,pos
+420,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato davvero.,F&B,neg
+16,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente molto.,Housekeeping,pos
+228,Attesa lunga al check-in.,Attesa lunga al check-in decisamente.,Reception,neg
+120,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso molto.,Housekeeping,neg
+309,Colazione abbondante e buoniss,Colazione abbondante e buonissima!.,F&B,pos
+85,Camera sporca e maleodorante.,Camera sporca e maleodorante decisamente.,Housekeeping,neg
+105,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi decisamente.,Housekeeping,neg
+107,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso!.,Housekeeping,neg
+17,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente!.,Housekeeping,pos
+278,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception molto.,Reception,neg
+181,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente decisamente.,Reception,pos
+40,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche davvero.,Housekeeping,pos
+178,Check-in veloce e professional,Check-in veloce e professionale..,Reception,pos
+326,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido decisamente.,F&B,pos
+441,Personale distratto al ristora,Personale distratto al ristorante decisamente.,F&B,neg
+442,Personale distratto al ristora,Personale distratto al ristorante molto.,F&B,neg
+340,Ristorante pulito e accoglient,Ristorante pulito e accogliente!.,F&B,pos
+426,Esperienza culinaria deludente,Esperienza culinaria deludente davvero.,F&B,neg
+139,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque..,Housekeeping,neg
+305,Colazione abbondante e buoniss,Colazione abbondante e buonissima!.,F&B,pos
+374,Piatti curati e personale gent,Piatti curati e personale gentile davvero.,F&B,pos
+86,Camera sporca e maleodorante.,Camera sporca e maleodorante davvero.,Housekeeping,neg
+70,Camera luminosa,"Camera luminosa, fresca e confortevole decisamente.",Housekeeping,pos
+61,Camera luminosa,"Camera luminosa, fresca e confortevole davvero.",Housekeeping,pos
+74,Camera luminosa,"Camera luminosa, fresca e confortevole..",Housekeeping,pos
+183,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente decisamente.,Reception,pos
+363,Piatti curati e personale gent,Piatti curati e personale gentile assolutamente.,F&B,pos
+345,Ristorante pulito e accoglient,Ristorante pulito e accogliente assolutamente.,F&B,pos
+71,Camera luminosa,"Camera luminosa, fresca e confortevole..",Housekeeping,pos
+62,Camera luminosa,"Camera luminosa, fresca e confortevole decisamente.",Housekeeping,pos
+337,Ristorante pulito e accoglient,Ristorante pulito e accogliente assolutamente.,F&B,pos
+415,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato assolutamente.,F&B,neg
+367,Piatti curati e personale gent,Piatti curati e personale gentile!.,F&B,pos
+200,Ottimo servizio alla reception,Ottimo servizio alla reception..,Reception,pos
+328,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido assolutamente.,F&B,pos
+142,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque!.,Housekeeping,neg
+127,Cattivo odore in stanza.,Cattivo odore in stanza..,Housekeeping,neg
+133,Cattivo odore in stanza.,Cattivo odore in stanza assolutamente.,Housekeeping,neg
+231,Attesa lunga al check-in.,Attesa lunga al check-in molto.,Reception,neg
+289,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione!.,Reception,neg
+397,Cibo freddo e servizio lento.,Cibo freddo e servizio lento assolutamente.,F&B,neg
+229,Attesa lunga al check-in.,Attesa lunga al check-in decisamente.,Reception,neg
+446,Personale distratto al ristora,Personale distratto al ristorante davvero.,F&B,neg
+259,Errore nella prenotazione.,Errore nella prenotazione molto.,Reception,neg
+307,Colazione abbondante e buoniss,Colazione abbondante e buonissima assolutamente.,F&B,pos
+163,Personale gentile e accoglient,Personale gentile e accogliente decisamente.,Reception,pos
+273,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception decisamente.,Reception,neg
+69,Camera luminosa,"Camera luminosa, fresca e confortevole!.",Housekeeping,pos
+417,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato decisamente.,F&B,neg
+63,Camera luminosa,"Camera luminosa, fresca e confortevole assolutamente.",Housekeeping,pos
+399,Cibo freddo e servizio lento.,Cibo freddo e servizio lento..,F&B,neg
+26,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente..,Housekeeping,pos
+238,Attesa lunga al check-in.,Attesa lunga al check-in davvero.,Reception,neg
+266,Errore nella prenotazione.,Errore nella prenotazione molto.,Reception,neg
+409,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato davvero.,F&B,neg
+113,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso!.,Housekeeping,neg
+218,Esperienza piacevole al check-,Esperienza piacevole al check-out assolutamente.,Reception,pos
+55,Servizio pulizie eccellente.,Servizio pulizie eccellente molto.,Housekeeping,pos
+3,Camera pulita e profumata.,Camera pulita e profumata!.,Housekeeping,pos
+293,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione assolutamente.,Reception,neg
+125,Cattivo odore in stanza.,Cattivo odore in stanza davvero.,Housekeeping,neg
+373,Piatti curati e personale gent,Piatti curati e personale gentile davvero.,F&B,pos
+254,Personale scortese e poco disp,Personale scortese e poco disponibile!.,Reception,neg
+197,Ottimo servizio alla reception,Ottimo servizio alla reception!.,Reception,pos
+100,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi davvero.,Housekeeping,neg
+213,Esperienza piacevole al check-,Esperienza piacevole al check-out molto.,Reception,pos
+234,Attesa lunga al check-in.,Attesa lunga al check-in!.,Reception,neg
+38,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche decisamente.,Housekeeping,pos
+244,Personale scortese e poco disp,Personale scortese e poco disponibile..,Reception,neg
+126,Cattivo odore in stanza.,Cattivo odore in stanza..,Housekeeping,neg
+24,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente!.,Housekeeping,pos
+414,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato decisamente.,F&B,neg
+433,Esperienza culinaria deludente,Esperienza culinaria deludente decisamente.,F&B,neg
+102,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi decisamente.,Housekeeping,neg
+116,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso decisamente.,Housekeeping,neg
+333,Ristorante pulito e accoglient,Ristorante pulito e accogliente..,F&B,pos
+121,Cattivo odore in stanza.,Cattivo odore in stanza molto.,Housekeeping,neg
+48,Servizio pulizie eccellente.,Servizio pulizie eccellente!.,Housekeeping,pos
+172,Check-in veloce e professional,Check-in veloce e professionale molto.,Reception,pos
+264,Errore nella prenotazione.,Errore nella prenotazione assolutamente.,Reception,neg
+146,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque decisamente.,Housekeeping,neg
+44,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche davvero.,Housekeeping,pos
+87,Camera sporca e maleodorante.,Camera sporca e maleodorante decisamente.,Housekeeping,neg
+243,Personale scortese e poco disp,Personale scortese e poco disponibile assolutamente.,Reception,neg
+355,Esperienza gastronomica eccell,Esperienza gastronomica eccellente assolutamente.,F&B,pos
+110,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso davvero.,Housekeeping,neg
+308,Colazione abbondante e buoniss,Colazione abbondante e buonissima!.,F&B,pos
+449,Personale distratto al ristora,Personale distratto al ristorante davvero.,F&B,neg
+239,Attesa lunga al check-in.,Attesa lunga al check-in!.,Reception,neg
+165,Personale gentile e accoglient,Personale gentile e accogliente davvero.,Reception,pos
+356,Esperienza gastronomica eccell,Esperienza gastronomica eccellente!.,F&B,pos
+297,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione..,Reception,neg
+341,Ristorante pulito e accoglient,Ristorante pulito e accogliente decisamente.,F&B,pos
+424,Esperienza culinaria deludente,Esperienza culinaria deludente assolutamente.,F&B,neg
+147,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque..,Housekeeping,neg
+156,Personale gentile e accoglient,Personale gentile e accogliente assolutamente.,Reception,pos
+347,Esperienza gastronomica eccell,Esperienza gastronomica eccellente assolutamente.,F&B,pos
+281,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception decisamente.,Reception,neg
+208,Ottimo servizio alla reception,Ottimo servizio alla reception!.,Reception,pos
+155,Personale gentile e accoglient,Personale gentile e accogliente molto.,Reception,pos
+292,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione..,Reception,neg
+316,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido molto.,F&B,pos
+90,Camera sporca e maleodorante.,Camera sporca e maleodorante!.,Housekeeping,neg
+195,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente molto.,Reception,pos
+216,Esperienza piacevole al check-,Esperienza piacevole al check-out davvero.,Reception,pos
+382,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità..,F&B,neg
+431,Esperienza culinaria deludente,Esperienza culinaria deludente davvero.,F&B,neg
+284,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception!.,Reception,neg
+152,Personale gentile e accoglient,Personale gentile e accogliente molto.,Reception,pos
+207,Ottimo servizio alla reception,Ottimo servizio alla reception molto.,Reception,pos
+168,Check-in veloce e professional,Check-in veloce e professionale!.,Reception,pos
+210,Ottimo servizio alla reception,Ottimo servizio alla reception..,Reception,pos
+159,Personale gentile e accoglient,Personale gentile e accogliente!.,Reception,pos
+260,Errore nella prenotazione.,Errore nella prenotazione..,Reception,neg
+154,Personale gentile e accoglient,Personale gentile e accogliente assolutamente.,Reception,pos
+64,Camera luminosa,"Camera luminosa, fresca e confortevole davvero.",Housekeeping,pos
+358,Esperienza gastronomica eccell,Esperienza gastronomica eccellente..,F&B,pos
+320,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido!.,F&B,pos
+370,Piatti curati e personale gent,Piatti curati e personale gentile assolutamente.,F&B,pos
+405,Cibo freddo e servizio lento.,Cibo freddo e servizio lento..,F&B,neg
+432,Esperienza culinaria deludente,Esperienza culinaria deludente..,F&B,neg
+437,Personale distratto al ristora,Personale distratto al ristorante molto.,F&B,neg
+101,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi decisamente.,Housekeeping,neg
+344,Ristorante pulito e accoglient,Ristorante pulito e accogliente!.,F&B,pos
+276,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception molto.,Reception,neg
+267,Errore nella prenotazione.,Errore nella prenotazione..,Reception,neg
+1,Camera pulita e profumata.,Camera pulita e profumata decisamente.,Housekeeping,pos
+357,Esperienza gastronomica eccell,Esperienza gastronomica eccellente decisamente.,F&B,pos
+23,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente assolutamente.,Housekeeping,pos
+131,Cattivo odore in stanza.,Cattivo odore in stanza davvero.,Housekeeping,neg
+98,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi molto.,Housekeeping,neg
+296,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione molto.,Reception,neg
+198,Ottimo servizio alla reception,Ottimo servizio alla reception davvero.,Reception,pos
+368,Piatti curati e personale gent,Piatti curati e personale gentile molto.,F&B,pos
+262,Errore nella prenotazione.,Errore nella prenotazione..,Reception,neg
+311,Colazione abbondante e buoniss,Colazione abbondante e buonissima..,F&B,pos
+224,Esperienza piacevole al check-,Esperienza piacevole al check-out..,Reception,pos
+161,Personale gentile e accoglient,Personale gentile e accogliente decisamente.,Reception,pos
+177,Check-in veloce e professional,Check-in veloce e professionale assolutamente.,Reception,pos
+223,Esperienza piacevole al check-,Esperienza piacevole al check-out decisamente.,Reception,pos
+306,Colazione abbondante e buoniss,Colazione abbondante e buonissima decisamente.,F&B,pos
+395,Cibo freddo e servizio lento.,Cibo freddo e servizio lento assolutamente.,F&B,neg
+393,Cibo freddo e servizio lento.,Cibo freddo e servizio lento!.,F&B,neg
+136,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque molto.,Housekeeping,neg
+298,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione davvero.,Reception,neg
+406,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato molto.,F&B,neg
+134,Cattivo odore in stanza.,Cattivo odore in stanza molto.,Housekeeping,neg
+60,Servizio pulizie eccellente.,Servizio pulizie eccellente assolutamente.,Housekeeping,pos
+15,Camera pulita e profumata.,Camera pulita e profumata assolutamente.,Housekeeping,pos
+170,Check-in veloce e professional,Check-in veloce e professionale molto.,Reception,pos
+275,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception davvero.,Reception,neg
+348,Esperienza gastronomica eccell,Esperienza gastronomica eccellente assolutamente.,F&B,pos
+381,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità molto.,F&B,neg
+261,Errore nella prenotazione.,Errore nella prenotazione assolutamente.,Reception,neg
+329,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido decisamente.,F&B,pos
+388,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità!.,F&B,neg
+379,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità..,F&B,neg
+36,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche!.,Housekeeping,pos
+143,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque!.,Housekeeping,neg
+169,Check-in veloce e professional,Check-in veloce e professionale davvero.,Reception,pos
+205,Ottimo servizio alla reception,Ottimo servizio alla reception!.,Reception,pos
+99,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi molto.,Housekeeping,neg
+338,Ristorante pulito e accoglient,Ristorante pulito e accogliente decisamente.,F&B,pos
+407,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato assolutamente.,F&B,neg
+115,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso assolutamente.,Housekeeping,neg
+117,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso davvero.,Housekeeping,neg
+157,Personale gentile e accoglient,Personale gentile e accogliente davvero.,Reception,pos
+180,Check-in veloce e professional,Check-in veloce e professionale!.,Reception,pos
+236,Attesa lunga al check-in.,Attesa lunga al check-in..,Reception,neg
+103,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi assolutamente.,Housekeeping,neg
+114,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso..,Housekeeping,neg
+241,Personale scortese e poco disp,Personale scortese e poco disponibile assolutamente.,Reception,neg
+20,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente..,Housekeeping,pos
+196,Ottimo servizio alla reception,Ottimo servizio alla reception!.,Reception,pos
+56,Servizio pulizie eccellente.,Servizio pulizie eccellente assolutamente.,Housekeeping,pos
+360,Esperienza gastronomica eccell,Esperienza gastronomica eccellente!.,F&B,pos
+82,Camera sporca e maleodorante.,Camera sporca e maleodorante davvero.,Housekeeping,neg
+137,Pulizie scadenti e polvere ovu,Pulizie scadenti e polvere ovunque davvero.,Housekeeping,neg
+422,Esperienza culinaria deludente,Esperienza culinaria deludente!.,F&B,neg
+377,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità decisamente.,F&B,neg
+343,Ristorante pulito e accoglient,Ristorante pulito e accogliente!.,F&B,pos
+211,Esperienza piacevole al check-,Esperienza piacevole al check-out..,Reception,pos
+401,Cibo freddo e servizio lento.,Cibo freddo e servizio lento!.,F&B,neg
+171,Check-in veloce e professional,Check-in veloce e professionale..,Reception,pos
+378,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità davvero.,F&B,neg
+92,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi decisamente.,Housekeeping,neg
+13,Camera pulita e profumata.,Camera pulita e profumata assolutamente.,Housekeeping,pos
+212,Esperienza piacevole al check-,Esperienza piacevole al check-out decisamente.,Reception,pos
+91,Bagno con muffa e asciugamani ,Bagno con muffa e asciugamani sporchi assolutamente.,Housekeeping,neg
+410,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato assolutamente.,F&B,neg
+84,Camera sporca e maleodorante.,Camera sporca e maleodorante..,Housekeeping,neg
+122,Cattivo odore in stanza.,Cattivo odore in stanza decisamente.,Housekeeping,neg
+80,Camera sporca e maleodorante.,Camera sporca e maleodorante davvero.,Housekeeping,neg
+384,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità decisamente.,F&B,neg
+318,Cibo delizioso e servizio rapi,Cibo delizioso e servizio rapido..,F&B,pos
+209,Ottimo servizio alla reception,Ottimo servizio alla reception assolutamente.,Reception,pos
+287,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione decisamente.,Reception,neg
+400,Cibo freddo e servizio lento.,Cibo freddo e servizio lento davvero.,F&B,neg
+182,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente davvero.,Reception,pos
+53,Servizio pulizie eccellente.,Servizio pulizie eccellente!.,Housekeeping,pos
+342,Ristorante pulito e accoglient,Ristorante pulito e accogliente davvero.,F&B,pos
+128,Cattivo odore in stanza.,Cattivo odore in stanza decisamente.,Housekeeping,neg
+350,Esperienza gastronomica eccell,Esperienza gastronomica eccellente!.,F&B,pos
+108,Lenzuola macchiate e pavimento,Lenzuola macchiate e pavimento appiccicoso..,Housekeeping,neg
+184,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente assolutamente.,Reception,pos
+21,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente..,Housekeeping,pos
+408,Piatti sporchi e buffet limita,Piatti sporchi e buffet limitato decisamente.,F&B,neg
+187,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente..,Reception,pos
+158,Personale gentile e accoglient,Personale gentile e accogliente assolutamente.,Reception,pos
+22,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente assolutamente.,Housekeeping,pos
+66,Camera luminosa,"Camera luminosa, fresca e confortevole..",Housekeeping,pos
+221,Esperienza piacevole al check-,Esperienza piacevole al check-out assolutamente.,Reception,pos
+76,Camera sporca e maleodorante.,Camera sporca e maleodorante molto.,Housekeeping,neg
+448,Personale distratto al ristora,Personale distratto al ristorante decisamente.,F&B,neg
+299,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione molto.,Reception,neg
+190,Staff disponibile e sempre sor,Staff disponibile e sempre sorridente assolutamente.,Reception,pos
+428,Esperienza culinaria deludente,Esperienza culinaria deludente assolutamente.,F&B,neg
+19,Stanza impeccabile e accoglien,Stanza impeccabile e accogliente!.,Housekeeping,pos
+280,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception!.,Reception,neg
+77,Camera sporca e maleodorante.,Camera sporca e maleodorante davvero.,Housekeeping,neg
+354,Esperienza gastronomica eccell,Esperienza gastronomica eccellente!.,F&B,pos
+39,Bagno ordinato e lenzuola fres,Bagno ordinato e lenzuola fresche molto.,Housekeeping,pos
+58,Servizio pulizie eccellente.,Servizio pulizie eccellente molto.,Housekeeping,pos
+5,Camera pulita e profumata.,Camera pulita e profumata davvero.,Housekeeping,pos
+288,Problemi con il pagamento e po,Problemi con il pagamento e poca organizzazione davvero.,Reception,neg
+219,Esperienza piacevole al check-,Esperienza piacevole al check-out molto.,Reception,pos
+362,Piatti curati e personale gent,Piatti curati e personale gentile..,F&B,pos
+283,Accoglienza fredda e confusion,Accoglienza fredda e confusione alla reception decisamente.,Reception,neg
+227,Attesa lunga al check-in.,Attesa lunga al check-in molto.,Reception,neg
+380,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità davvero.,F&B,neg

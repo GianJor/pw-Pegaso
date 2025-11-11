@@ -1,0 +1,31 @@
+id,title,body,department,sentiment
+20,Problemi al pagamento e poca p,Problemi al pagamento e poca professionalità.,Reception,neg
+15,Esperienza piacevole,"Esperienza piacevole, staff cordiale.",Reception,pos
+11,Personale gentile e accoglient,Personale gentile e accogliente al check-in.,Reception,pos
+27,Cibo freddo e servizio lento.,Cibo freddo e servizio lento.,F&B,neg
+23,Ottimo ristorante interno,"Ottimo ristorante interno, piatti ben presentati.",F&B,pos
+7,Bagno non pulito e lenzuola ma,Bagno non pulito e lenzuola macchiate.,Housekeeping,neg
+6,Camera sporca e maleodorante.,Camera sporca e maleodorante.,Housekeeping,neg
+13,Ottimo servizio alla reception,"Ottimo servizio alla reception, sempre sorridenti.",Reception,pos
+12,Check-in veloce,"Check-in veloce, staff cortese e disponibile.",Reception,pos
+16,Attesa lunga al check-in,"Attesa lunga al check-in, poca organizzazione.",Reception,neg
+10,Cestino pieno e asciugamani sp,Cestino pieno e asciugamani sporchi.,Housekeeping,neg
+26,Colazione scarsa e di bassa qu,Colazione scarsa e di bassa qualità.,F&B,neg
+30,Esperienza culinaria deludente,Esperienza culinaria deludente.,F&B,neg
+22,Cibo delizioso,"Cibo delizioso, personale attento e gentile.",F&B,pos
+17,Personale scortese e poco disp,Personale scortese e poco disponibile.,Reception,neg
+28,Poche opzioni al buffet,"Poche opzioni al buffet, piatti sporchi.",F&B,neg
+2,Letto comodissimo,"Letto comodissimo, bagno ordinato e pulito.",Housekeeping,pos
+14,Check-out rapido e organizzato,Check-out rapido e organizzato.,Reception,pos
+19,Accoglienza fredda e caotica.,Accoglienza fredda e caotica.,Reception,neg
+3,Tutto perfetto,"Tutto perfetto, stanza luminosa e impeccabile.",Housekeeping,pos
+18,Errore nella prenotazione e ne,Errore nella prenotazione e nessuna assistenza.,Reception,neg
+29,Ristorante rumoroso e personal,Ristorante rumoroso e personale disattento.,F&B,neg
+5,Stanza accogliente,"Stanza accogliente, pulita e ben arredata.",Housekeeping,pos
+25,Esperienza gastronomica eccell,Esperienza gastronomica eccellente.,F&B,pos
+8,Odore sgradevole in stanza e p,Odore sgradevole in stanza e pavimento appiccicoso.,Housekeeping,neg
+9,Pulizie fatte male,"Pulizie fatte male, polvere ovunque.",Housekeeping,neg
+24,Colazione varia e fresca.,Colazione varia e fresca.,F&B,pos
+1,Camera pulitissima,"Camera pulitissima, profumata e accogliente.",Housekeeping,pos
+4,Servizio pulizie eccellente,"Servizio pulizie eccellente, stanza profumata ogni giorno.",Housekeeping,pos
+21,Colazione abbondante e buoniss,Colazione abbondante e buonissima.,F&B,pos
