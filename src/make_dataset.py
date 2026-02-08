@@ -58,7 +58,7 @@ LEXICON = {
     },
 }
 
-# --- GENERAZIONE ESTESA (≈ 450 righe) ---
+# --- GENERAZIONE ESTESA ---
 rows = []
 id_counter = 1
 

@@ -1,16 +1,3 @@
-# ==============================================================
-# Hotel Review Classifier Dashboard
-# --------------------------------------------------------------
-# Applicazione Streamlit per l'analisi automatica di recensioni hotel.
-# Funzionalità:
-#   - Classificazione reparto (Housekeeping, Reception, Food & Beverage)
-#   - Analisi del sentiment (positivo / negativo)
-#   - Upload singolo testo, CSV batch, PDF e DOCX
-#   - **NOVITÀ**: Riconoscimento di testo "Non Classificabile" (Off-Topic)
-# Autore: [Tuo Nome]
-# Data: [data di consegna]
-# ==============================================================
-
 import streamlit as st
 import pandas as pd
 import joblib

@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # --------------------------------------------------------------
-# 1️⃣ CONFIGURAZIONE PERCORSI AUTOMATICA
+# 1. CONFIGURAZIONE PERCORSI AUTOMATICA
 # --------------------------------------------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(BASE_DIR, "..", "data", "reviews_synth.csv")
@@ -19,7 +19,7 @@ MODEL_DIR = os.path.join(BASE_DIR, "..", "models")
 os.makedirs(MODEL_DIR, exist_ok=True)
 
 # --------------------------------------------------------------
-# 2️⃣ FUNZIONE DI PULIZIA DEL TESTO
+# 2. FUNZIONE DI PULIZIA DEL TESTO
 # --------------------------------------------------------------
 def clean_text(text):
     """Pulisce il testo in modo coerente con l’app Streamlit."""
@@ -31,7 +31,7 @@ def clean_text(text):
     return text
 
 # --------------------------------------------------------------
-# 3️⃣ CARICAMENTO E PRE-PROCESSING DEL DATASET
+# 3. CARICAMENTO E PRE-PROCESSING DEL DATASET
 # --------------------------------------------------------------
 print(f"\n📂 Caricamento dataset da '{DATA_PATH}'...")
 df = pd.read_csv(DATA_PATH)
@@ -43,7 +43,7 @@ print(f"➡️ Classi reparto: {df['department'].unique()}")
 print(f"➡️ Classi sentiment: {df['sentiment'].unique()}")
 
 # --------------------------------------------------------------
-# 4️⃣ SUDDIVISIONE TRAIN/TEST
+# 4. SUDDIVISIONE TRAIN/TEST
 # --------------------------------------------------------------
 # Reparto
 X_train, X_test, y_train_dep, y_test_dep = train_test_split(
@@ -59,21 +59,21 @@ print(f"➡️ Training set Reparto: {len(X_train)} | Test set: {len(X_test)}")
 print(f"➡️ Training set Sentiment: {len(X_train_s)} | Test set: {len(X_test_s)}")
 
 # --------------------------------------------------------------
-# 5️⃣ TF-IDF VECTORIZER
+# 5. TF-IDF VECTORIZER
 # --------------------------------------------------------------
 print("\n🧠 Creazione vettorizzatore TF-IDF...")
 vectorizer = TfidfVectorizer(lowercase=True, max_features=1500, ngram_range=(1, 2))
 X_train_vec = vectorizer.fit_transform(X_train)
 X_test_vec = vectorizer.transform(X_test)
 
-# ⚠️ Creiamo anche i vettori separati per il modello Sentiment
+# Creiamo anche i vettori separati per il modello Sentiment
 X_train_vec_s = vectorizer.transform(X_train_s)
 X_test_vec_s = vectorizer.transform(X_test_s)
 
 print(f"➡️ TF-IDF dimensione: {X_train_vec.shape}")
 
 # --------------------------------------------------------------
-# 6️⃣ MODELLI DI CLASSIFICAZIONE
+# 6. MODELLI DI CLASSIFICAZIONE
 # --------------------------------------------------------------
 def train_and_evaluate_model(X_train, X_test, y_train, y_test, name):
     """Addestra e valuta un modello di regressione logistica."""
@@ -101,7 +101,7 @@ def train_and_evaluate_model(X_train, X_test, y_train, y_test, name):
     return model, acc, f1
 
 # --------------------------------------------------------------
-# 7️⃣ ADDESTRAMENTO MODELLI
+# 7. ADDESTRAMENTO MODELLI
 # --------------------------------------------------------------
 clf_dep, acc_dep, f1_dep = train_and_evaluate_model(
     X_train_vec, X_test_vec, y_train_dep, y_test_dep, "department"
@@ -112,7 +112,7 @@ clf_sent, acc_sent, f1_sent = train_and_evaluate_model(
 )
 
 # --------------------------------------------------------------
-# 8️⃣ SALVATAGGIO MODELLI
+# 8. SALVATAGGIO MODELLI
 # --------------------------------------------------------------
 print(f"\n💾 Salvataggio modelli e vettorizzatore in '{MODEL_DIR}'...")
 joblib.dump(vectorizer, os.path.join(MODEL_DIR, "vectorizer.joblib"))
